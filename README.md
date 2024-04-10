@@ -24,7 +24,7 @@ V.I.V.I.A (Versatile and Interactive Voice Integrated Assistant) is a dynamic pr
 ## Usage
 To start V.I.V.I.A, run the main script from your (environment) terminal:
 ```
-python "New_Code/vivia.py"
+python "New_Code/vivia_interaction.py"
 ```
 Follow the on-screen prompts to interact with your assistant.
 
