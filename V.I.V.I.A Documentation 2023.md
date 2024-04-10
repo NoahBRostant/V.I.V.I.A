@@ -1,4 +1,5 @@
 # V.I.V.I.A. Project Documentation
+( As written by an AI )
 
 ## Overview
 V.I.V.I.A. (Versatile and Interactive Voice Integrated Assistant) is an AI-powered virtual assistant designed to assist with everyday tasks and interactions. This document provides an outline of key aspects related to the project.
