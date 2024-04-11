@@ -1,7 +1,7 @@
 # V.I.V.I.A
 
 ## Overview
-V.I.V.I.A (Versatile and Interactive Voice Integrated Assistant) is a dynamic project created to explore the potential of AI, particularly in building a virtual assistant. This leverages the advanced capabilities of OpenAI's GPT-4 and ElevenLabs’ Multilingual Voice v2 APIs, offering unique, multilingual interactions.
+V.I.V.I.A (Versatile and Interactive Voice Integrated Assistant) is a project created to explore the potential of AI, particularly in building a virtual assistant. This leverages the advanced capabilities of OpenAI's GPT-4 and ElevenLabs’ Multilingual Voice v2 APIs, offering unique, multilingual interactions.
 
 ## Features
 - **AI-Powered Conversations**: Engage with an assistant powered by the latest GPT-4 model for natural and informative interactions.
