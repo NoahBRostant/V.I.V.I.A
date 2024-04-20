@@ -10,8 +10,7 @@ V.I.V.I.A (Versatile and Interactive Voice Integrated Assistant) is a project cr
 
 ---
 
-!(2024-04-20 11-55-49.mkv)
-
+https://github.com/NoahBRostant/V.I.V.I.A/assets/77655703/b6926f77-ba5e-4db7-bf59-a8d5ad2a0495
 
 ## Requirements
 - Python 3 (built using 3.12)
