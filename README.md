@@ -8,6 +8,11 @@ V.I.V.I.A (Versatile and Interactive Voice Integrated Assistant) is a project cr
 - **Multilingual Support**: Utilizes ElevenLabs’ Multilingual Voice v2 for seamless communication in multiple languages.
 - **Custom Synthetic Voice**: Integration with ffmpeg to asynchronously generate speech, enhancing the user experience with a custom ElevenLabs synthetic voice.
 
+---
+
+2024-04-20 11-55-49.mkv
+
+
 ## Requirements
 - Python 3 (built using 3.12)
 - OpenAI API key
