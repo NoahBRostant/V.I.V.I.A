@@ -18,12 +18,28 @@ https://github.com/NoahBRostant/V.I.V.I.A/assets/77655703/b6926f77-ba5e-4db7-bf5
 - ElevenLabs API key
 - ffmpeg installed on your system or environment (Recommended)
 
+'''
+vivia/
+│
+├── vivia_interaction.py  # Main Python script
+├── requirements/
+│   └── requirements.txt  # Dependency list
+├── OPENAI_API_KEY  # File containing the OpenAI API key
+├── ELEVENLABS_API_KEY  # File containing the Eleven Labs API key
+└── recent_memory.txt  # File to store session memory
+'''
+
 ## Installation
-1. Clone this repository to your local machine.
-2. Install required Python packages: `pip install -r requirements.txt`
-   ( I recommend setting up an venv or conda environment )
-3. Ensure ffmpeg is correctly installed and accessible in your PATH.
-4. Set up your OpenAI and ElevenLabs API keys as environment variables.
+1. Clone the repository or download the project: 2. Ensure you have the complete folder structure as outlined above.
+3. Install Python: If not already installed, download and install Python.
+4. Set up a virtual environment (recommended):Navigate to the project directory in your terminal.
+5. Run python -m venv venv to create a virtual environment.
+6. Activate the environment:
+- Windows: venv\Scripts\activate
+- macOS/Linux: source venv/bin/activate
+7. Install dependencies:
+- Ensure you are in the project directory where the requirements folder is located.
+8. Run pip install -r requirements/requirements.txt to install the required Python packages.
 
 ## Usage
 To start V.I.V.I.A, run the main script from your (environment) terminal:
