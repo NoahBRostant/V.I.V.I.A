@@ -1,6 +1,4 @@
-<img src="https://github.com/NoahBRostant/V.I.V.I.A/blob/main/HiPaint_1713786816890.png?raw=true" align="center" width="100px">
-
-# V.I.V.I.A
+<img src="https://github.com/NoahBRostant/V.I.V.I.A/blob/main/HiPaint_1713786816890.png?raw=true" align="center" width="150px">
 
 ## Overview
 V.I.V.I.A (Versatile and Interactive Voice Integrated Assistant) is a project created to explore the potential of AI, particularly in building a virtual assistant. This leverages the advanced capabilities of OpenAI's GPT-4 and ElevenLabs’ Multilingual Voice v2 APIs, offering unique, multilingual interactions.
