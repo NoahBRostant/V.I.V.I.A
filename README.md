@@ -1,3 +1,4 @@
+<img src="https://github.com/NoahBRostant/V.I.V.I.A/blob/main/HiPaint_1713785056086.png?raw=true" align="center">
 # V.I.V.I.A
 
 ## Overview
