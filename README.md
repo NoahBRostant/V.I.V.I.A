@@ -18,7 +18,7 @@ https://github.com/NoahBRostant/V.I.V.I.A/assets/77655703/b6926f77-ba5e-4db7-bf5
 - ElevenLabs API key
 - ffmpeg installed on your system or environment (Recommended)
 
-'''
+```
 vivia/
 │
 ├── vivia_interaction.py  # Main Python script
@@ -27,7 +27,7 @@ vivia/
 ├── OPENAI_API_KEY  # File containing the OpenAI API key
 ├── ELEVENLABS_API_KEY  # File containing the Eleven Labs API key
 └── recent_memory.txt  # File to store session memory
-'''
+```
 
 ## Installation
 1. Clone the repository or download the project: 2. Ensure you have the complete folder structure as outlined above.
