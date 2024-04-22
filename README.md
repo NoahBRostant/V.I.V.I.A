@@ -32,7 +32,7 @@ vivia/
 ## Installation
 1. Clone the repository or download the project:
     - Ensure you have the complete folder structure as outlined above.
-3. Install Python: If not already installed, ![download and install Python](https://www.python.org/downloads/).
+3. Install Python: If not already installed, [download and install Python](https://www.python.org/downloads/).
 4. Set up a virtual environment (recommended):Navigate to the project directory in your terminal.
 5. Run python -m venv venv to create a virtual environment.
 6. Activate the environment:
