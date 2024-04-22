@@ -32,15 +32,16 @@ vivia/
 ## Installation
 1. Clone the repository or download the project:
     - Ensure you have the complete folder structure as outlined above.
-3. Install Python: If not already installed, [download and install Python](https://www.python.org/downloads/).
-4. Set up a virtual environment (recommended):Navigate to the project directory in your terminal.
-5. Run python -m venv venv to create a virtual environment.
-6. Activate the environment:
-    - Windows: venv\Scripts\activate
-    - macOS/Linux: source venv/bin/activate
-7. Install dependencies:
+2. Install Python: If not already installed, [download and install Python](https://www.python.org/downloads/).
+3. Set up a virtual environment (recommended):
+    - Navigate to the project directory in your terminal.
+    - Run python -m venv venv to create a virtual environment.
+    - Activate the environment:
+        - Windows: venv\Scripts\activate
+        - macOS/Linux: source venv/bin/activate
+4. Install dependencies:
     - Ensure you are in the project directory where the requirements folder is located.
-8. Run pip install -r requirements/requirements.txt to install the required Python packages.
+    - Run pip install -r requirements/requirements.txt to install the required Python packages.
 
 ## Usage
 To start V.I.V.I.A, run the main script from your (environment) terminal:
