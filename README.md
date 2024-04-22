@@ -35,10 +35,10 @@ vivia/
 4. Set up a virtual environment (recommended):Navigate to the project directory in your terminal.
 5. Run python -m venv venv to create a virtual environment.
 6. Activate the environment:
-- Windows: venv\Scripts\activate
-- macOS/Linux: source venv/bin/activate
+    - Windows: venv\Scripts\activate
+    - macOS/Linux: source venv/bin/activate
 7. Install dependencies:
-- Ensure you are in the project directory where the requirements folder is located.
+    - Ensure you are in the project directory where the requirements folder is located.
 8. Run pip install -r requirements/requirements.txt to install the required Python packages.
 
 ## Usage
