@@ -35,7 +35,7 @@ vivia/
 2. Install Python: If not already installed, [download and install Python](https://www.python.org/downloads/).
 3. Set up a virtual environment (recommended):
     - Navigate to the project directory in your terminal.
-    - Run python -m venv venv to create a virtual environment.
+    - Run `python -m venv venv` to create a virtual environment.
     - Activate the environment:
         - Windows: venv\Scripts\activate
         - macOS/Linux: source venv/bin/activate
