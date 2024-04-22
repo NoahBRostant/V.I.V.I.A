@@ -16,7 +16,7 @@ https://github.com/NoahBRostant/V.I.V.I.A/assets/77655703/b6926f77-ba5e-4db7-bf5
 - Python 3 (built using 3.12)
 - OpenAI API key
 - ElevenLabs API key
-- ffmpeg installed on your system or environment (Recommended)
+- ffmpeg installed on your system
 
 ```
 vivia/
@@ -37,18 +37,20 @@ vivia/
     - Navigate to the project directory in your terminal.
     - Run `python -m venv venv` to create a virtual environment.
     - Activate the environment:
-        - Windows: venv\Scripts\activate
-        - macOS/Linux: source venv/bin/activate
+        - Windows: `venv\Scripts\activate`
+        - macOS/Linux: `source venv/bin/activate`
 4. Install dependencies:
     - Ensure you are in the project directory where the requirements folder is located.
-    - Run pip install -r requirements/requirements.txt to install the required Python packages.
+    - `Run pip install -r requirements/requirements.txt` to install the required Python packages.
 
 ## Usage
-To start V.I.V.I.A, run the main script from your (environment) terminal:
-```
-python "New_Code/vivia_interaction.py"
-```
-Follow the on-screen prompts to interact with your assistant.
+1. API Keys:
+    - You need to have valid API keys from OpenAI and Eleven Labs.
+    - Place your OpenAI API key in a file named OPENAI_API_KEY and your Eleven Labs API key in ELEVENLABS_API_KEY.
+2. Running the script:
+    - In the terminal (ensure your virtual environment is activated if you're using one), navigate to the directory containing gpt_interaction.py.
+    - Run the script with python gpt_interaction.py.
+    - Follow the on-screen prompts to interact with the application.
 
 ## Contribution
 Your contributions are welcome! If you have suggestions for improvements or have found bugs, please open an issue or submit a pull request.
