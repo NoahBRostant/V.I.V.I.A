@@ -51,7 +51,7 @@ vivia/
     - Place your OpenAI API key in a file named OPENAI_API_KEY and your Eleven Labs API key in ELEVENLABS_API_KEY.
 2. Running the script:
     - In the terminal (ensure your virtual environment is activated if you're using one), navigate to the directory containing gpt_interaction.py.
-    - Run the script with python gpt_interaction.py.
+    - Run the script with `python gpt_interaction.py`.
     - Follow the on-screen prompts to interact with the application.
 
 ## Contribution
