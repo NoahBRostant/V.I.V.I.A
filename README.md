@@ -9,14 +9,19 @@ V.I.V.I.A (Versatile and Interactive Voice Integrated Assistant) is a project cr
 - **AI-Powered Conversations**: Engage with an assistant powered by the latest GPT-4 model for natural and informative interactions.
 - **Multilingual Support**: Utilizes ElevenLabs’ Multilingual Voice v2 for seamless communication in multiple languages.
 - **Custom Synthetic Voice**: Integration with ffmpeg to asynchronously generate speech, enhancing the user experience with a custom ElevenLabs synthetic voice.
+- **Use Your Voices**: Using your own API keys, you can create and use your own voices for the AI Assistant.
 
 ---
 
 ### New Animated UI
 
-<img src="https://github.com/NoahBRostant/V.I.V.I.A/blob/main/Screenshot%20From%202025-03-02%2002-05-50.png?raw=true" align="center"/>
+![Screenshot From 2025-03-02 12-29-59](https://github.com/user-attachments/assets/5097696d-7e53-43d8-bff2-353dbb5cb7c5)
 
-https://github.com/user-attachments/assets/0ba84d94-b648-4f21-8f08-2163551c3b5a
+
+
+https://github.com/user-attachments/assets/1ef100bd-84e2-4ded-95dd-833ea135d83e
+
+
 
 ## Requirements
 - Python 3 (built using 3.12)
