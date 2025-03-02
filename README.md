@@ -12,6 +12,10 @@ V.I.V.I.A (Versatile and Interactive Voice Integrated Assistant) is a project cr
 
 ---
 
+### New Animated UI
+
+<img src="https://github.com/NoahBRostant/V.I.V.I.A/blob/main/Screenshot%20From%202025-03-02%2002-05-50.png?raw=true" align="center"/>
+
 https://github.com/NoahBRostant/V.I.V.I.A/assets/77655703/b6926f77-ba5e-4db7-bf59-a8d5ad2a0495
 
 ## Requirements
