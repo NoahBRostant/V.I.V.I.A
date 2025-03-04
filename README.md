@@ -18,11 +18,6 @@ V.I.V.I.A (Versatile and Interactive Voice Integrated Assistant) is a project cr
 ![Screenshot From 2025-03-02 12-29-59](https://github.com/user-attachments/assets/5097696d-7e53-43d8-bff2-353dbb5cb7c5)
 
 
-
-https://github.com/user-attachments/assets/1ef100bd-84e2-4ded-95dd-833ea135d83e
-
-
-
 ## Requirements
 - Python 3 (built using 3.12)
 - OpenAI API key
